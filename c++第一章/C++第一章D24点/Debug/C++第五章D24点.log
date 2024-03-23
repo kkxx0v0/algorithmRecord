@@ -1,0 +1,6 @@
+﻿  C++第五章D24点.cpp
+C:\Users\codeZ\Desktop\题目\C++第五章D24点\C++第五章D24点.cpp(105,22): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\C++第五章D24点\C++第五章D24点.cpp(105,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\C++第五章D24点\C++第五章D24点.cpp(105,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\C++第五章D24点\C++第五章D24点.cpp(105,13): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  C++第五章D24点.vcxproj -> C:\Users\codeZ\Desktop\题目\C++第五章D24点\Debug\C++第五章D24点.exe

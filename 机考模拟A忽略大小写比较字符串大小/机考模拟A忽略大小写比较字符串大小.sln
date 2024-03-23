@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "机考模拟A忽略大小写比较字符串大小", "机考模拟A忽略大小写比较字符串大小.vcxproj", "{E43F3468-83BF-4709-90D8-5DD68BE24874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Debug|x64.ActiveCfg = Debug|x64
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Debug|x64.Build.0 = Debug|x64
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Debug|x86.ActiveCfg = Debug|Win32
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Debug|x86.Build.0 = Debug|Win32
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Release|x64.ActiveCfg = Release|x64
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Release|x64.Build.0 = Release|x64
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Release|x86.ActiveCfg = Release|Win32
+		{E43F3468-83BF-4709-90D8-5DD68BE24874}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B804D106-6ED2-438D-8BB7-21835BE162CA}
+	EndGlobalSection
+EndGlobal

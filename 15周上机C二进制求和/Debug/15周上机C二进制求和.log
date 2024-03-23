@@ -1,0 +1,5 @@
+﻿  15周上机C二进制求和.cpp
+C:\Users\codeZ\Desktop\题目\15周上机C二进制求和\15周上机C二进制求和.cpp(13,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\15周上机C二进制求和\15周上机C二进制求和.cpp(18,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\15周上机C二进制求和\15周上机C二进制求和.cpp(25,34): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+  15周上机C二进制求和.vcxproj -> C:\Users\codeZ\Desktop\题目\15周上机C二进制求和\Debug\15周上机C二进制求和.exe

@@ -1,0 +1,5 @@
+﻿  Problem D Ternary类.cpp
+C:\Users\codeZ\Desktop\题目\大一下上机二\Problem D Ternary类\Problem D Ternary类.cpp(19,23): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\大一下上机二\Problem D Ternary类\Problem D Ternary类.cpp(39,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\大一下上机二\Problem D Ternary类\Problem D Ternary类.cpp(46,27): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Problem D Ternary类.vcxproj -> C:\Users\codeZ\Desktop\题目\大一下上机二\Problem D Ternary类\x64\Debug\Problem D Ternary类.exe

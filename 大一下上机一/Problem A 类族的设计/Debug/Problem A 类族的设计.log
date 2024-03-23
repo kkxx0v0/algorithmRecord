@@ -1,0 +1,4 @@
+﻿  Problem A 类族的设计.cpp
+C:\Users\codeZ\Desktop\题目\大一下上机一\Problem A 类族的设计\Problem A 类族的设计.cpp(15,25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\codeZ\Desktop\题目\大一下上机一\Problem A 类族的设计\Problem A 类族的设计.cpp(19,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  Problem A 类族的设计.vcxproj -> C:\Users\codeZ\Desktop\题目\大一下上机一\Problem A 类族的设计\Debug\Problem A 类族的设计.exe
